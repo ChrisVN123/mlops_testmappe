@@ -1,0 +1,5 @@
+outs:
+- md5: a14ec99ebde36dc6c88cae79ee1c4c4f
+  size: 803820
+  hash: md5
+  path: sp500_companies.csv
