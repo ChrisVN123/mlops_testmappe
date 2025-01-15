@@ -1,0 +1,35 @@
+
+{
+  "schemaVersion": 1,
+  "traceEvents": [
+  {
+    "name": "thread_name", "ph": "M", "ts": 0, "pid": 93917, "tid": 3961819,
+    "args": {
+      "name": "thread 3961819 ()"
+    }
+  },
+  {
+    "name": "thread_sort_index", "ph": "M", "ts": 0, "pid": 93917, "tid": 3961819,
+    "args": {
+      "sort_index": 3961819
+    }
+  },
+  {
+    "name": "thread_name", "ph": "M", "ts": 0, "pid": 93917, "tid": 3961819,
+    "args": {
+      "name": "thread 3961819 ()"
+    }
+  },
+  {
+    "name": "thread_sort_index", "ph": "M", "ts": 0, "pid": 93917, "tid": 3961819,
+    "args": {
+      "sort_index": 3961819
+    }
+  },
+  {
+    "name": "Record Window End", "ph": "i", "s": "g",
+    "pid": "", "tid": "", "ts": 1736417948403182
+  }
+  ],
+  "traceName": "./log/resnet18/mbptilhhristian.students.clients.local_93917.1736417948403527000.pt.trace.json"
+}

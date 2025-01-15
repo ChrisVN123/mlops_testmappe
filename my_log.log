@@ -1,0 +1,28 @@
+2025-01-09 12:09:48.805 | DEBUG    | __main__:<module>:192 - This is a debug message!
+2025-01-09 12:11:15.128 | DEBUG    | __main__:<module>:190 - This is a DEBUG message
+2025-01-09 12:11:15.128 | INFO     | __main__:<module>:191 - This is an INFO message
+2025-01-09 12:11:15.129 | SUCCESS  | __main__:<module>:192 - This is a SUCCESS message
+2025-01-09 12:11:15.129 | WARNING  | __main__:<module>:193 - This is a WARNING message
+2025-01-09 12:11:15.129 | ERROR    | __main__:<module>:194 - This is an ERROR message
+2025-01-09 12:11:15.129 | CRITICAL | __main__:<module>:195 - This is a CRITICAL message
+2025-01-09 12:11:15.129 | DEBUG    | __main__:<module>:199 - This is a debug message!
+2025-01-09 12:11:40.690 | DEBUG    | __main__:<module>:190 - This is a DEBUG message
+2025-01-09 12:11:40.691 | INFO     | __main__:<module>:191 - This is an INFO message
+2025-01-09 12:11:40.691 | SUCCESS  | __main__:<module>:192 - This is a SUCCESS message
+2025-01-09 12:11:40.691 | WARNING  | __main__:<module>:193 - This is a WARNING message
+2025-01-09 12:11:40.691 | ERROR    | __main__:<module>:194 - This is an ERROR message
+2025-01-09 12:11:40.691 | CRITICAL | __main__:<module>:195 - This is a CRITICAL message
+2025-01-09 12:12:48.521 | DEBUG    | __main__:<module>:190 - This is a DEBUG message
+2025-01-09 12:12:48.522 | INFO     | __main__:<module>:191 - This is an INFO message
+2025-01-09 12:12:48.522 | SUCCESS  | __main__:<module>:192 - This is a SUCCESS message
+2025-01-09 12:12:48.523 | WARNING  | __main__:<module>:193 - This is a WARNING message
+2025-01-09 12:12:48.523 | ERROR    | __main__:<module>:194 - This is an ERROR message
+2025-01-09 12:12:48.523 | CRITICAL | __main__:<module>:195 - This is a CRITICAL message
+2025-01-09 12:12:48.523 | ERROR    | __main__:<module>:201 - An exception occurred
+Traceback (most recent call last):
+
+> File "/Users/christianvanellnielsen/Desktop/mlops_testmappe/main.py", line 199, in <module>
+    print(Hellow)  # This will raise a NameError
+
+NameError: name 'Hellow' is not defined
+2025-01-09 12:12:48.528 | DEBUG    | __main__:<module>:203 - This is a debug message!
